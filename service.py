@@ -40,7 +40,7 @@ def generateParcours(
                         "African School of Economics",
                         "Ecole Nationale d'Economie ",
                     ],
-                    "domaine": "statistique & Economie",
+                    "domaine": "Statistique & Economie",
                     "niveau": "Licence",
                 }
             ],
