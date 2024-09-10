@@ -33,17 +33,33 @@ Cette API RESTful a pour objectif de fournir des recommandations de parcours d'�
 ```json
 [
   {
-    "category": "Excellent",
+    "category": "Excellence",
     "formations": [
       {
-        "niveau": "Bac+3",
-        "filiere": "Informatique",
-        "ecoles": ["École Polytechnique", "ENS"],
-        "domaine": "Sciences de l'ingénieur",
-        "description": "Parcours d'excellence en informatique..."
-      },
-      // ...
+        "niveau": "Licence",
+        "filiere": "Licence statistique",
+        "ecoles": [
+          "African School of Economics",
+          "Ecole Nationale d'Economie "
+        ],
+        "domaine": "Statistiques & Economie",
+        "description": null
+      }
     ]
   },
-  // ...
+  {
+    "category": "Ecole privée",
+    "formations": [
+      {
+        "niveau": "Licence",
+        "filiere": "Licence statistique",
+        "ecoles": [
+          "African School of Economics",
+          "Ecole Nationale d'Economie "
+        ],
+        "domaine": "statistique & Economie",
+        "description": null
+      }
+    ]
+  }
 ]
