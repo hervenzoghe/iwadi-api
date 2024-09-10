@@ -57,7 +57,7 @@ Cette API RESTful a pour objectif de fournir des recommandations de parcours d'Ã
           "African School of Economics",
           "Ecole Nationale d'Economie "
         ],
-        "domaine": "statistique & Economie",
+        "domaine": "Statistiques & Economie",
         "description": null
       }
     ]
